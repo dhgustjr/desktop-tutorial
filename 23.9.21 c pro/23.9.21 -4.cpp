@@ -1,7 +1,5 @@
 #include<stdio.h>
 
-int main()
-{
 	int fact(int num) {
 		if (num == 0) return 1;
 
@@ -17,4 +15,3 @@ int main()
 
 		return 0;
 	}
-}
